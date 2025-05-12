@@ -1,2 +1,2 @@
 # Portifolio
-Meu nome é Mateus, sou estudante de ciencia da computação com interesse em áreas de interesse como desenvolvimento web, ciência de dados, inteligência artificial, etc.. Tenho experiência com tecnologias, como Python e venho desenvolvendo projetos pessoais e acadêmicos que estarão disponíveis aqui no meu GitHub. 
+Meu nome é Mateus, sou estudante de ciencia da computação com interesse em áreas de interesse como desenvolvimento web, ciência de dados, inteligência artificial, etc.. Tenho experiência com tecnologias, como Python e venho desenvolvendo projetos pessoais e acadêmicos que estarão disponíveis aqui no meu GitHub. https://www.linkedin.com/in/mateus-andrade-71ab9a218/
