@@ -39,7 +39,7 @@ Estes são exemplos de projetos desenvolvidos ao longo da minha jornada acadêmi
 
 ## 🚀 Tecnologias Utilizadas
 
-- HTML5 / CSS3
+- Python / CSS3 
 - Git e GitHub
 - Google Workspace (Integração com PortfolioHUB)
 - GitHub Pages
