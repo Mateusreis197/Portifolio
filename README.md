@@ -26,14 +26,15 @@ Sou apaixonado por tecnologia, programação e pela arte de resolver problemas. 
 
 ## 🧠 Projetos em Destaque
 
-Estes são exemplos de projetos desenvolvidos ao longo da minha jornada acadêmica, que demonstram habilidades técnicas e foco em soluções reais:
+Estes são projetos que desenvolvi como parte da minha aprendizagem em programação, usando Python e C:
 
-| Projeto | Descrição | Tecnologias | Link |
-|--------|-----------|-------------|------|
-| **SmartClinic** | Sistema de prontuários eletrônicos com autenticação segura e dashboards interativos para clínicas de pequeno porte. | React, Node.js, MongoDB, JWT, Chart.js | [🔗 Ver Projeto](https://mateusreis197.github.io/Portifolio/projetos/smartclinic) |
-| **TrackStudy AI** | Plataforma de organização de estudos com sugestão automática de cronogramas baseada em histórico de desempenho. | Python, Flask, SQLite, Google Gemini API | [🔗 Ver Projeto](https://mateusreis197.github.io/Portifolio/projetos/trackstudy-ai) |
-| **EcoRoute** | Aplicativo de rotas otimizadas para ciclistas, com foco em segurança e qualidade ambiental usando dados em tempo real. | Next.js, Mapbox, OpenWeather API | [🔗 Ver Projeto](https://mateusreis197.github.io/Portifolio/projetos/ecoroute) |
-| **ByteVault** | Protótipo de sistema de gestão segura de senhas e documentos confidenciais com criptografia local. | Java, Spring Boot, PostgreSQL, BCrypt | [🔗 Ver Projeto](https://mateusreis197.github.io/Portifolio/projetos/bytevault) |
+| Projeto | Descrição | Linguagem | Link |
+|--------|-----------|-----------|------|
+| **AgendaSimples** | Agenda de contatos com adição, busca e remoção via terminal, com salvamento em arquivo. | Python | [🔗 Ver Projeto](https://mateusreis197.github.io/Portifolio/projetos/agendasimples) |
+| **CalculadoraMatricial** | Realiza operações com matrizes (soma, subtração, multiplicação) usando ponteiros. | C | [🔗 Ver Projeto](https://mateusreis197.github.io/Portifolio/projetos/calculadoramatricial) |
+| **JogoAdivinha** | Jogo de adivinhação com número aleatório e níveis de dificuldade. | Python | [🔗 Ver Projeto](https://mateusreis197.github.io/Portifolio/projetos/jogoadivinha) |
+| **ConversorTemperatura** | Conversão entre Celsius, Fahrenheit e Kelvin via menu interativo. | C | [🔗 Ver Projeto](https://mateusreis197.github.io/Portifolio/projetos/conversortemperatura) |
+
 
 ---
 
