@@ -29,7 +29,7 @@ Embora este projeto seja individual, contribuições são bem-vindas para sugest
 
 ## Contato
 
-Se tiver dúvidas, envie um e-mail para [mateusreis197@gmail.com](mailto:mateusreis197@gmail.com) ou abra uma issue.
+Se tiver dúvidas, envie um e-mail para [mateus.rreis@sempreceub.com](mailto:mateus.rreis@sempreceub.com) ou abra uma issue.
 
 ---
 
