@@ -17,7 +17,7 @@ Sou calouro no curso de Ciência da Computação no UniCEUB e criei este portfó
 ## 🛠️ Tecnologias que estou aprendendo
 
 - **Linguagens:** Python, C, Scratch
-- **Ferramentas:** Git, GitHub, Visual Studio Code
+- **Ferramentas:** Git, GitHub, Visual Studio Code, Gemini
 - **Conceitos:** Algoritmos, estruturas de decisão, laços de repetição, manipulação de arquivos, lógica de programação
 
 ---
@@ -26,10 +26,10 @@ Sou calouro no curso de Ciência da Computação no UniCEUB e criei este portfó
 
 | Projeto | Descrição | Linguagens |
 |--------|-----------|------------|
-| [Sistema de Gerenciamento de Biblioteca](https://github.com/Mateusreis197/Portifolio/tree/main/gerenciador-biblioteca) | Um sistema de terminal que permite cadastrar livros, buscar por título, editar registros e salvar os dados em arquivos `.txt`. Feito 100% em C, com manipulação de structs e arquivos. | C |
-| [Mini Shell em Python](https://github.com/Mateusreis197/Portifolio/tree/main/mini-shell-python) | Uma mini interface de terminal que executa comandos como `ls`, `cd`, `mkdir`, usando bibliotecas do sistema operacional (`os`, `subprocess`). Desenvolvido para entender como funcionam interpretes de comandos. | Python |
-| [Simulador de Elevador](https://github.com/Mateusreis197/Portifolio/tree/main/simulador-elevador) | Simula um elevador com múltiplos andares, controle de lotação, chamadas simultâneas e lógica de fila. Projeto focado em algoritmos e estruturas condicionais. | C |
-| [Jogo da Velha com IA Simples](https://github.com/Mateusreis197/Portifolio/tree/main/jogo-da-velha-ia) | Jogo da velha no terminal com um "modo contra o computador". A IA usa regras simples (minimax básico). Foco foi praticar lógica e vetores. | Python |
+| Sistema de Gerenciamento de Biblioteca | Um sistema de terminal que permite cadastrar livros, buscar por título, editar registros e salvar os dados em arquivos `.txt`. Feito 100% em C, com manipulação de structs e arquivos. | C |
+| Mini Shell em Python | Uma mini interface de terminal que executa comandos como `ls`, `cd`, `mkdir`, usando bibliotecas do sistema operacional (`os`, `subprocess`). Desenvolvido para entender como funcionam interpretes de comandos. | Python |
+| Simulador de elevador | Simula um elevador com múltiplos andares, controle de lotação, chamadas simultâneas e lógica de fila. Projeto focado em algoritmos e estruturas condicionais. | C |
+| Jogo da Velha com IA Simples | Jogo da velha no terminal com um "modo contra o computador". A IA usa regras simples (minimax básico). Foco foi praticar lógica e vetores. | Python |
 
 > Cada projeto inclui um `README.md` explicando os objetivos, execução, estrutura e desafios técnicos enfrentados.
 
