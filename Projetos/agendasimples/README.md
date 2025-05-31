@@ -1,23 +1,21 @@
-# 📟 Calculadora em C
+# 📒 Agenda Simples em Python
 
-Este projeto é uma calculadora simples desenvolvida em linguagem C, capaz de realizar operações básicas como adição, subtração, multiplicação e divisão.
+Este projeto é uma aplicação de terminal que simula uma agenda de contatos. Permite adicionar, visualizar, buscar e remover contatos, utilizando listas e dicionários.
 
 ## 🚀 Funcionalidades
 
-- Adição de dois números
-- Subtração de dois números
-- Multiplicação de dois números
-- Divisão de dois números
+- Adicionar novo contato (nome e telefone)
+- Visualizar todos os contatos salvos
+- Buscar contato pelo nome
+- Remover contato
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Linguagem C
-- Compilador GCC
+- Python 3
 
 ## 📦 Como Executar
 
-1. Compile o código:
+1. Execute o script:
 
    ```bash
-   gcc calculadora.c -o calculadora
-
+   python agenda.py
