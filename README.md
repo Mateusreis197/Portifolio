@@ -1,67 +1,66 @@
-# Portfólio - Mateus Reis 👨‍💻
+# 👨‍💻 Portfólio - Mateus Reis
 
-Seja bem-vindo ao meu portfólio pessoal! Aqui você encontra uma coleção de projetos, experiências e aprendizados como estudante de Ciência da Computação no UniCEUB. Este repositório também está configurado como um site via GitHub Pages.
+Seja bem-vindo ao meu portfólio pessoal! Aqui você encontra uma coleção de projetos, experiências e aprendizados como estudante de Ciência da Computação no UniCEUB.  
+Este repositório também está configurado como um site via GitHub Pages.
 
-🔗 **Acesse o Drive**: https://drive.google.com/drive/folders/1KRJ1Dqbv1ZLZMXoKO48SwDMCLiuHqYwn?usp=drive_link
+---
+
+## 🔗 Acesse a Documentação e Evidências
+
+📂 [Google Drive com Documentação, Evidências e Código](https://drive.google.com/drive/folders/1KRJ1Dqbv1ZLZMXoKO48SwDMCLiuHqYwn?usp=drive_link)
 
 ---
 
 ## ✨ Sobre Mim
 
-Sou apaixonado por tecnologia, programação e pela arte de resolver problemas. Este repositório tem o objetivo de registrar minha evolução, compartilhar conhecimento e apresentar meus projetos de forma clara e acessível.
+Sou apaixonado por tecnologia, programação e pela arte de resolver problemas.  
+Este repositório tem o objetivo de registrar minha evolução, compartilhar conhecimento e apresentar meus projetos de forma clara e acessível.
 
 ---
 
 ## 📁 Estrutura do Repositório
 
-- `/Projetos`: Contém meus principais projetos e desafios acadêmicos
-- `index.html`: Página inicial do meu portfólio no GitHub Pages
-- `CODE_OF_CONDUCT.md`: Código de conduta para manter o ambiente respeitoso
-- `CONTRIBUTING.md`: Como contribuir com sugestões ou melhorias
-- `SECURITY.md`: Política de segurança
-- `.github/ISSUE_TEMPLATE/feature_request.md`: Template para sugestões de melhoria
-- `.github/pull_request_template.md`: Template para Pull Requests
+- `/Projetos`: Códigos organizados por linguagem
+- `index.html`: Página inicial do portfólio
+- `.github/`: Templates de contribuição
+- `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `SECURITY.md`: Regras e orientações do projeto
 
 ---
 
 ## 🧠 Projetos em Destaque
 
-Estes são projetos que desenvolvi como parte da minha aprendizagem em programação, usando Python e C:
-
-| Projeto | Descrição | Linguagem | Link |
-|--------|-----------|-----------|------|
-| **AgendaSimples** | Agenda de contatos com adição, busca e remoção via terminal, com salvamento em arquivo. | Python | [🔗 Ver Projeto](https://mateusreis197.github.io/Portifolio/projetos/agendasimples) |
-| **CalculadoraMatricial** | Realiza operações com matrizes (soma, subtração, multiplicação) usando ponteiros. | C | [🔗 Ver Projeto](https://mateusreis197.github.io/Portifolio/projetos/calculadoramatricial) |
-| **JogoAdivinha** | Jogo de adivinhação com número aleatório e níveis de dificuldade. | Python | [🔗 Ver Projeto](https://mateusreis197.github.io/Portifolio/projetos/jogoadivinha) |
-| **ConversorTemperatura** | Conversão entre Celsius, Fahrenheit e Kelvin via menu interativo. | C | [🔗 Ver Projeto](https://mateusreis197.github.io/Portifolio/projetos/conversortemperatura) |
-
+| Projeto               | Descrição                                                                 | Linguagem |
+|-----------------------|---------------------------------------------------------------------------|-----------|
+| [AgendaSimples](Projetos/AgendaSimples)        | Agenda de contatos via terminal com cadastro, busca e remoção            | Python    |
+| [CalculadoraMatricial](Projetos/CalculadoraMatricial) | Operações com matrizes usando ponteiros                                  | C         |
+| [JogoAdivinha](Projetos/JogoAdivinha)          | Jogo de adivinhação com níveis de dificuldade e geração aleatória        | Python    |
+| [ConversorTemperatura](Projetos/ConversorTemperatura) | Conversor interativo entre Celsius, Fahrenheit e Kelvin                  | C         |
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
-- Python / CSS3 
+- Python / C / HTML e CSS
 - Git e GitHub
-- Google Workspace (Integração com PortfolioHUB)
 - GitHub Pages
-- Google Gemini (como assistente de implementação)
+- Google Workspace: Docs, Drive, Calendar
+- Google Gemini (como assistente de implementação e organização)
 
 ---
 
-## 📌 Contribuindo
+## 🧾 Documentação
 
-Sinta-se à vontade para sugerir melhorias, correções ou ideias via [issue](https://github.com/Mateusreis197/Portifolio/issues) ou pull request. Antes disso, por favor leia:
-
-- [Código de Conduta]
-- [Guia de Contribuição]
-- [Política de Segurança]
+Toda a documentação do projeto está salva e organizada no Google Drive, dividida em:
+- `01 - Documentação`: Relatório Técnico, Plano de Implantação, Diário de Bordo
+- `02 - Evidências`: Prints de execução, uso do Google Workspace, etc.
+- `03 - Código Backup`: Versão final compactada do projeto
 
 ---
 
 ## 📄 Licença
 
-Este projeto está licenciado sob os termos da [Licença MIT].
+Este projeto está licenciado sob os termos da Licença MIT.
 
 ---
 
-Feito com dedicação e entusiasmo por [Mateus Reis](mailto:mateus.rreis@sempreceub.com).
+Feito com dedicação e entusiasmo por [Mateus Reis](https://github.com/Mateusreis197) 💻
