@@ -1,7 +1,7 @@
 
 ---
 
-### 📄 **2. Projeto: Jogo da Adivinhação em Python**
+### 📄 ** Projeto: Jogo da Adivinhação em Python**
 
 ```markdown
 # 🎯 Jogo da Adivinhação em Python
