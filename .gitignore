@@ -22,3 +22,15 @@ __pycache__/
 # Pastas ocultas e de sistema
 .DS_Store
 Thumbs.db
+# C e Python
+*.o
+*.out
+*.exe
+__pycache__/
+*.py[cod]
+
+# Editor e sistema
+*~
+*.swp
+.DS_Store
+Thumbs.db
