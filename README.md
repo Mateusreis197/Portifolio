@@ -2,7 +2,7 @@
 
 Seja bem-vindo ao meu portfólio pessoal! Aqui você encontra uma coleção de projetos, experiências e aprendizados como estudante de Ciência da Computação no UniCEUB. Este repositório também está configurado como um site via GitHub Pages.
 
-🔗 **Acesse a versão online**: [mateusreis197.github.io/Portifolio](https://mateusreis197.github.io/Portifolio)
+🔗 **Acesse o Drive**: https://drive.google.com/drive/folders/1KRJ1Dqbv1ZLZMXoKO48SwDMCLiuHqYwn?usp=drive_link
 
 ---
 
@@ -52,15 +52,15 @@ Estes são projetos que desenvolvi como parte da minha aprendizagem em programa�
 
 Sinta-se à vontade para sugerir melhorias, correções ou ideias via [issue](https://github.com/Mateusreis197/Portifolio/issues) ou pull request. Antes disso, por favor leia:
 
-- [Código de Conduta](CODE_OF_CONDUCT.md)
-- [Guia de Contribuição](CONTRIBUTING.md)
-- [Política de Segurança](SECURITY.md)
+- [Código de Conduta]
+- [Guia de Contribuição]
+- [Política de Segurança]
 
 ---
 
 ## 📄 Licença
 
-Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
+Este projeto está licenciado sob os termos da [Licença MIT].
 
 ---
 
