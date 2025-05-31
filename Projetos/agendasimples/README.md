@@ -1,18 +1,17 @@
-
----
-
-### 📒 **Agenda Simples em Python**
-
-```markdown
 # 📒 Agenda Simples em Python
 
-Aplicativo de agenda para terminal com opções básicas de cadastro e gerenciamento de contatos.
+Uma aplicação de terminal desenvolvida em Python para gerenciamento básico de contatos.
+
+O projeto permite cadastrar, visualizar, buscar e remover contatos utilizando estruturas de dados simples, como listas e dicionários. É uma ótima introdução ao conceito de CRUD (Create, Read, Update, Delete) no contexto de aplicações em linha de comando.
 
 ## Funcionalidades
-- Adicionar e remover contatos
-- Buscar por nome
-- Listar todos os contatos
+- Cadastro de contatos com nome e telefone
+- Listagem de todos os contatos salvos
+- Busca de contatos pelo nome
+- Remoção de contatos existentes
 
-## Como Executar
-```bash
-python agenda.py
+## Tecnologias Utilizadas
+- Python 3
+- Estruturas de dados nativas (listas, dicionários)
+- Lógica condicional e laços de repetição
+
