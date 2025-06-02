@@ -2,6 +2,7 @@
 
 Seja bem-vindo ao meu portfólio pessoal! Aqui você encontra uma coleção de projetos, experiências e aprendizados como estudante de Ciência da Computação no UniCEUB.  
 Este repositório também está configurado como um site via GitHub Pages.
+Linkedin: www.linkedin.com/in/mateus-andrade-71ab9a218
 
 ---
 
